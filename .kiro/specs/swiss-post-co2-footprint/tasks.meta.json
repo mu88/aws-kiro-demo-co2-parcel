@@ -1,0 +1,418 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Vite-React-TypeScript-Projekt mit Cloudscape, ESLint, Vitest und fast-check initialisieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459351703
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459361876
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460081679
+      }
+    ],
+    "1.2 Domänentypen definieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459353526
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460084107
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460136295
+      }
+    ],
+    "1.3 Gemockte Datensätze Route_Network und Emission_Factor_Catalog anlegen": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459354601
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460141636
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460249172
+      }
+    ],
+    "2.1 `validateShipment` implementieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459354722
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460141712
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460249231
+      }
+    ],
+    "3.1 `computeCo2Grams` und `roundToGram` implementieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459354790
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460141568
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460249322
+      }
+    ],
+    "4.1 `selectRoute` mit erschöpfender Pfadsuche und Service_Level-Regeln implementieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459354884
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460255604
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460586937
+      }
+    ],
+    "5. Checkpoint - Domänen-Berechnungskern verifizieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459354974
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460596635
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460618306
+      }
+    ],
+    "6.1 `estimate` implementieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459355056
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460634064
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460775531
+      }
+    ],
+    "7.1 Sitzungslisten-Logik implementieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459355120
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460634126
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460775453
+      }
+    ],
+    "8.1 `buildRouteBreakdown` implementieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459355216
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460634186
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460775609
+      }
+    ],
+    "9. Checkpoint - Gesamte Domänenlogik verifizieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459355305
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460779312
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460823987
+      }
+    ],
+    "10.1 `App` mit In-Memory-Sitzungszustand und Callbacks implementieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459355387
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460633981
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460775743
+      }
+    ],
+    "10.2 Wizard-Zustandsmodell für geführten Ablauf implementieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459355455
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460634243
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460775662
+      }
+    ],
+    "11.1 `GuidedWizard` mit Cloudscape Wizard implementieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459355524
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460830301
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460994698
+      }
+    ],
+    "11.2 `ServiceLevelStep` implementieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459355613
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460830376
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460994845
+      }
+    ],
+    "11.3 `PackageDetailsStep` implementieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459355681
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460830227
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460994767
+      }
+    ],
+    "12.1 `ResultStep` und `RouteBreakdown` implementieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459355750
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791461002204
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791461132233
+      }
+    ],
+    "12.2 `SessionList` und `TotalFootprint` implementieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459355823
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791461002349
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791461132374
+      }
+    ],
+    "12.3 `AssumptionsNote` implementieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459355902
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791461002276
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791461132299
+      }
+    ],
+    "13.1 Wizard-Schritte, Ergebnisanzeige und Sitzungsansicht in `App` verbinden": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459355983
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791461136325
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791461354948
+      }
+    ],
+    "14. Abschluss-Checkpoint - gesamte Anwendung verifizieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791459356061
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791461358114
+      },
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791461396158
+      }
+    ],
+    "1. Projektgerüst, Tooling und Datenschicht aufsetzen": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460249381
+      }
+    ],
+    "2. Eingabevalidierung (InputValidator) implementieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460249440
+      }
+    ],
+    "3. CO2-Berechnung (CO2Calculator) implementieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460249505
+      }
+    ],
+    "4. Routenwahl (RouteSelector) implementieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460587006
+      }
+    ],
+    "7. Sitzungsliste und Total_Footprint (Aggregation) implementieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460775800
+      }
+    ],
+    "6. Estimation_Engine implementieren und Fehlerfälle abdecken": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460775864
+      }
+    ],
+    "8. Route-Aufschlüsselung (Darstellungs-Mapping) implementieren": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791460775928
+      }
+    ],
+    "13. Komponenten verdrahten und Ablauf vervollständigen": [
+      {
+        "executionId": "9d867c73-bc7c-4992-8cc5-893bdc4b291d",
+        "chatSessionId": "sess_6db8884b-7d21-4641-bd15-a10fecc4163f",
+        "timestamp": 1791461355059
+      }
+    ]
+  }
+}

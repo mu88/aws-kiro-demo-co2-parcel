@@ -1,0 +1,42 @@
+/* Branding mit dem offiziellen Swiss Post Design System, orientiert am
+   post.ch-Erscheinungsbild: helle Kopfleiste, grosses Logo links, offizielle
+   Schrift "Swiss Post Sans" (geladen via components/fonts.css). Das Logo wird
+   über die offizielle PostLogo-Komponente dargestellt (autorisierte Quelle). */
+
+.brand-header {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background-color: #ffffff;
+  color: #1d1d1b;
+  padding: 16px 32px;
+  border-bottom: 1px solid #e0e0e0;
+  /* Offizielle Post-Schrift mit System-Fallback. */
+  font-family: 'Swiss Post Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+/* Grosses Logo wie auf post.ch; PostLogo skaliert auf 100% Höhe. */
+.brand-header__logo {
+  height: 56px;
+}
+
+.brand-header__product {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.brand-header__product-title {
+  font-family: 'Swiss Post Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.2;
+  color: #1d1d1b;
+}
+
+.brand-header__product-subtitle {
+  font-family: 'Swiss Post Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  color: #6d6d6d;
+}
